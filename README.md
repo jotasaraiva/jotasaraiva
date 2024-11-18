@@ -1,5 +1,3 @@
-# Hi there! 👋
-
-- 🌐 I am an Environmental Engineering major whose also especially interested in Computer Science, Data Science, Machine Learning and Geographic Information Systems.
-- 📖 Enrolled at the Institute of Science and Technology of the State University of São Paulo (ICT-UNESP)
-- 🐍 Currently studying Python, R and SQL
+- 🌐 I'm an Environmental Engineering major interested in Data Science, Machine Learning, Remote Sensing and GIS.
+- 📖 Enrolled at the Institute of Science and Technology of the State University of São Paulo.
+- 🐍 Currently studying Python, R and SQL.
